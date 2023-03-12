@@ -2,7 +2,7 @@
 Sample:Document Title
 """""""""""""""""
 ...........
-Subtitle
+Subtitle 1
 ...........
 
 .. contents:: Overview
